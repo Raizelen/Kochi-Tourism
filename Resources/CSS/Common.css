@@ -34,8 +34,13 @@ table,th,td{
     
   }
 /* Margin for paragraphs */
+@media only screen and (max-width: 900px) /*PC*/
 p{
     padding-right: 20%;
+}
+@media only screen and (max-width: 900px)/*Smaller Device*/
+p{
+    padding-right: 0%;
 }
 /* space between hyper links to prevent looking clumped */
 a{
