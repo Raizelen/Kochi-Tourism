@@ -1,0 +1,43 @@
+/* for Table boarders */
+table,th,td{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+    border-collapse: collapse;
+}
+
+/* Formating form field items */
+.FormFields{
+    margin-bottom: 15px;
+    margin-left: 30px;
+}
+
+/* to style footer of the page */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: green;
+    text-align: center;
+  }
+/* to style footer of the page */
+.header {
+    position: top;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: green;
+    text-align: center;
+    
+  }
+/* Margin for paragraphs */
+p{
+    padding-right: 300px;
+}
+/* space between hyper links to prevent looking clumped */
+a{
+    margin: 5px;
+}
