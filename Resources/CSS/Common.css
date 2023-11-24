@@ -33,16 +33,16 @@ table,th,td{
     text-align: center;
     
   }
-/* Margin for paragraphs */
-@media only screen and (max-width: 900px) /*PC*/
+/* Margin for paragraphs
+@media only screen and (max-width: 900px) 
 p{
     padding-right: 20%;
 }
-@media only screen and (max-width: 600px)/*Smaller Device*/
+@media only screen and (max-width: 600px)/*Smaller Device
 p{
     padding-right: 0%;
 }
-/* space between hyper links to prevent looking clumped */
+ space between hyper links to prevent looking clumped */
 a{
     margin: 5px;
 }
