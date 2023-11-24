@@ -35,7 +35,7 @@ table,th,td{
   }
 /* Margin for paragraphs */
 p{
-    padding-right: 300px;
+    padding-right: 20%;
 }
 /* space between hyper links to prevent looking clumped */
 a{
